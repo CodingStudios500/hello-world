@@ -22,8 +22,7 @@
     <img src="https://i.ytimg.com/vi/EyW7Q7a3o78/maxresdefault.jpg"/>
     <img src="https://s-media-cache-ak0.pinimg.com/originals/75/d0/a5/75d0a519c7cf35979e97db91f48899b9.jpg"/>
     <img src="http://www.coolwallpapers.me/wp-content/uploads/2014/02/Army-Airplane-Shooting-Rockets.jpg"/>
-    <img src="http://assets.nydailynews.com/polopoly_fs/1.1438961.1377723545!/img/httpImage/image.jpg_gen/derivatives/article_750/522371880.jpg"/>
-   
+     <img      src="http://assets.nydailynews.com/polopoly_fs/1.1438961.1377723545!/img/httpImage/image.jpg_gen/derivatives/article_750/522371880.jpg"/>
   <img src="https://1.bp.blogspot.com/-mNLjxXvLHZE/VulML7O-iMI/AAAAAAAAC9I/SRXgxTpAJJoVdVvynniWzYL9bzZd3he2A/s1600/F-22.jpg"/>
     <img src="http://www.aviationspectator.com/files/images/F-117A-Nighthawk-stealth-fighter-95.jpg"/>
     <img src="http://files.all-free-download.com//downloadfiles/wallpapers/1920_1200/fighter_pilot_wallpaper_military_aircrafts_planes_299.jpg"/>
@@ -44,10 +43,8 @@
     <img src="http://openwalls.com/image/534/jet_fighter_in_combat_zone_2000x1274.jpg"/>
     <img src="http://download.gamezone.com/uploads/image/data/870412/acecombat_2.jpg"/>
     <img src="http://download.gamezone.com/uploads/image/data/870415/acecombat_5.j"/>
-
     <img src="http://media2.wptv.com/photo/2015/10/27/WPTV%20ISIS%20IRAQ%20900X675_1445990134500_25830402_ver1.0_640_480.jpg"/>
     <img src="http://s.newsweek.com/sites/www.newsweek.com/files/styles/lg/public/2014/06/16/iraq.jpg"/>
-     <img src=""/>
     <img src="http://www.nationofchange.org/2015/wp-content/uploads/Blackops012015.jpg"/>
     <img src="http://static2.businessinsider.com/image/54d27cc66da811fb72b59509-1200-858/rtxnfgp.jpg"/>
     <img src="https://vid.alarabiya.net/images/2015/12/02/9d1045cc-a325-4760-8d17-9af9158f4849/9d1045cc-a325-4760-8d17-9af9158f4849_16x9_788x442.jpg"/>
